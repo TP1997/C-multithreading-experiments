@@ -1,4 +1,5 @@
 *.cbp
+*.depend
 *.layout
 Concurrency_in_action/
 bin/

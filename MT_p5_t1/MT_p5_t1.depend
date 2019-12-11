@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1569531867 source:/home/tuoms/C++/Multithreading_tutorials/MT_p5_t1/main.cpp
-	<iostream>
-	<vector>
-	<thread>
-	<mutex>
-
