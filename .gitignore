@@ -1,0 +1,5 @@
+*.cdb
+*.layout
+Concurrency_in_action/
+bin/
+obj/
